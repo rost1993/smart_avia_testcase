@@ -1,0 +1,20 @@
+{
+    "name": "Test_application",
+    "description": "Test application",
+    "authors": [
+        {
+            "name": "rost1993",
+            "email": "rostislav-gashin@yandex.ru"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApplication\\": "application/",
+            "controllers\\": "controllers/",
+            "models\\": "models/",
+            "components\\": "components/"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+body {
+  background-image: url('/assets/images/5172066.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.style-td {
+  border: 1px solid #C0C0C0 !important;
+}
